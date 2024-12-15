@@ -1,5 +1,8 @@
-## Hi there, I'm Shayan Noori! 👋
+# Hi there, I'm Shayan Noori! 👋
 
+🌟 Welcome to my GitHub profile! I'm a passionate **developer** and **problem-solver** with a craving for creating impactful projects and learning latest technologies. 
+
+## 🚀 About Me
 - 🌱 Currently learning: </br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="background-color: #FFF"/>
 ![Zustand](https://img.shields.io/badge/Zustand-FF0000?style=for-the-badge&logo=zustand&logoColor=white) 
@@ -35,13 +38,10 @@
 
 ## 📫 Let's Connect
 - 📧 Email: (nwryshayan500@gmail.com)
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
 - 💼 LinkedIn: (https://www.linkedin.com/in/)
 
----
+## 📊 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adevnamedshayan&show_icons=true&locale=en&theme=ambient_gradient" alt="adevnamedshayan" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adevnamedshayan&theme=ambient_gradient" alt="adevnamedshayan" />
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adevnamedshayan&show_icons=true&locale=en&theme=ambient_gradient" alt="adevnamedshayan" />
