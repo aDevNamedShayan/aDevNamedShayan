@@ -37,11 +37,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-
-## 📫 Let's Connect
-- 📧 Email: (nwryshayan500@gmail.com)
-- 💼 LinkedIn: (https://www.linkedin.com/in/)
-
 ## 📊 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adevnamedshayan&show_icons=true&locale=en&theme=ambient_gradient" alt="adevnamedshayan" />
