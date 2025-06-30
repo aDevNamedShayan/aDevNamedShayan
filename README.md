@@ -34,5 +34,5 @@
 ## 📊 GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=adevnamedshayan&show_icons=true&locale=en&theme=ambient_gradient" alt="adevnamedshayan" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adevnamedshayan&show_icons=true&locale=en&theme=ambient_gradient" alt="adevnamedshayan" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adevnamedshayan&theme=ambient_gradient" alt="adevnamedshayan" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adevnamedshayan&show_icons=true&locale=en&theme=ambient_gradient" alt="adevnamedshayan" />
